@@ -1,12 +1,12 @@
 # FlavorWorldFinalProject:
-#create .env file (PORT = 3000) \n
-#change the IP adresses in the services to your IP address \n
+#create .env file (PORT = 3000) ,
+#change the IP adresses in the services to your IP address 
 
-In the server directory: \n
-cd server \n
-RUN npm install socket.io express mongoose cors multer dotenv \n
-RUN node index.js \n
+In the server directory: 
+cd server ,
+RUN npm install socket.io express mongoose cors multer dotenv ,
+RUN node index.js 
 
-In the main directory: \n 
-RUN npm install socket.io-client expo-modules-core expo-document-picker \n 
-RUN npx expo start -c \n
+In the main directory: 
+RUN npm install socket.io-client expo-modules-core expo-document-picker , 
+RUN npx expo start -c 
