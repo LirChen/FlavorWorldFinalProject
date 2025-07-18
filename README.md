@@ -1,6 +1,6 @@
 # FlavorWorldFinalProject:
-# create .env file (PORT = 3000)
-# change the IP adresses in the services to your IP address
+#create .env file (PORT = 3000)
+#change the IP adresses in the services to your IP address
 
 In the server directory:
 cd server
