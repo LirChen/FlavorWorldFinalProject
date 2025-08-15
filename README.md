@@ -434,8 +434,8 @@ const socket = io('http://your-server-url:3000');
 
 **Developer:** Lir Chen  
 **Email:** lirhen2000@gmail.com  
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/lir-chen/)  
-**GitHub:** [@yourusername](https://github.com/LirChen)
+**LinkedIn:** [https://www.linkedin.com/in/lir-chen/](https://www.linkedin.com/in/lir-chen/)  
+**GitHub:** [https://github.com/LirChen](https://github.com/LirChen)
 
 ---
 
